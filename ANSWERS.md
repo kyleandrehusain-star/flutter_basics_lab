@@ -10,20 +10,23 @@
 
 ## 1. GitHub repository link
 
-> **TODO — fill this in before submitting.**
-> Create an empty repository named `flutter_basics_lab` on GitHub, then run these
-> commands in the terminal inside `flutter_basics_lab`:
->
-> ```sh
-> git init
-> git add .
-> git commit -m "Lab: Flutter widgets, layouts and UI components"
-> git branch -M main
-> git remote add origin https://github.com/YOUR_USERNAME/flutter_basics_lab.git
-> git push -u origin main
-> ```
->
-> Repository link: `https://github.com/YOUR_USERNAME/flutter_basics_lab`
+**https://github.com/kyleandrehusain-star/flutter_basics_lab**
+
+The repository was created with the `flutter_basics_lab` name, and the code
+was pushed from the project folder with:
+
+```sh
+git init
+git add .
+git commit -m "Lab: Flutter widgets, layouts and UI components"
+git branch -M main
+git remote add origin https://github.com/kyleandrehusain-star/flutter_basics_lab.git
+git push -u origin main
+```
+
+The `build/` folder is excluded by the `.gitignore` that Flutter created, so
+only the source code, `pubspec.yaml`, the `screenshots/` folder and this
+answers file are in the repository.
 
 ---
 
